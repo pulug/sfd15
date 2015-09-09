@@ -656,6 +656,10 @@ blockquote p{
 	color: #f9f9f9;
 }
 
+.team p a {
+    color: #ffffff;
+}
+
 .team h2 {
 	color: #1bce7c;
     font-size: 1.2em;
@@ -663,6 +667,10 @@ blockquote p{
     letter-spacing: 0.2em;
     margin: 0.83em 0;
     text-transform: uppercase;
+}
+
+.team h2 a {
+    color: #1bce7c;
 }
 
 .team h1 {
